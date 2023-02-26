@@ -4,4 +4,6 @@ Enunciado de la práctica [aqui](https://www.cs.upc.edu/pro2/data/uploads/QP2021
 
 
 Nota: 9'75
+
+
 Profesor: Xavier Messeguer
