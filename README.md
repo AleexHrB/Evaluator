@@ -9,3 +9,5 @@ Nota: 9'75
 
 
 Profesor: Xavier Messeguer
+
+Esta no es la versión que envié, es una antigua. La otra no la he podido recuperar
